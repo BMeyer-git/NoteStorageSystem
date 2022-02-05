@@ -15,17 +15,13 @@ to files using java.
 * VSCode Extension Pack for Java
 * JDK 17.0.2
 
-{Describe the programming language that you used and any libraries.}
-
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/java/default.asp)
 * [JavaTPoint](https://www.javatpoint.com/java-tutorial)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Ensure that creative users cannot access other user's files by making the end of their username the start of
 another user's note title
 * Add functionality to edit existing notes
