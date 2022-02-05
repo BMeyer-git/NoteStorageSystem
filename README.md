@@ -6,7 +6,7 @@ anyone with access to the text files could read them outside of the program.
 I created this software to become more familiar with Java and specifically to lean how to read and write information
 to files using java.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/mbUWceS3atM)
 
 # Development Environment
 
